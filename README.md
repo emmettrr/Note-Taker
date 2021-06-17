@@ -25,16 +25,12 @@
 
 
   ## Installation
-  undefined
+  `node i && node server.js` 
   <br>
 
   ## Usage
-  It is used to create/edit/ and save notes to an html
+  It is used to create/edit/save notes to an html
   <br>
-
-  ## Screenshot
-
-  ![screenshot](./)
   
   ## License
 
@@ -43,11 +39,11 @@
   <br>
 
   ## Contributing
-  undefined
+  Emmett
   <br>
 
   ## Tests
-  undefined
+  No testing
   <br>
 
   ## Questions
